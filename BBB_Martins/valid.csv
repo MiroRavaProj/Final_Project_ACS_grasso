@@ -1,4 +1,4 @@
-Drug_ID,smiles,label
+Drug_ID,Drug,Y
 timiperone,O=C(CCCN1CCC(n2c(=S)[nH]c3ccccc32)CC1)c1ccc(F)cc1,1
 compound 32,O=[N+]([O-])C1=CC=NC1NCCSCc1ccccn1,1
 ketorfanol,O=C1CC[C@H]2[C@H]3Cc4cccc(O)c4[C@@]2(CCN3CC2CC2)C1,1

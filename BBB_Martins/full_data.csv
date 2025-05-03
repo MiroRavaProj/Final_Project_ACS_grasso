@@ -1,4 +1,4 @@
-Drug_ID,smiles,label
+Drug_ID,Drug,Y
 Propanolol,CC(C)NCC(O)COc1cccc2ccccc12.[Cl],1
 Terbutylchlorambucil,CC(C)(C)OC(=O)CCCc1ccc(N(CCCl)CCCl)cc1,1
 40730,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,1
